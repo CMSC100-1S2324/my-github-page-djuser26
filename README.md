@@ -14,4 +14,5 @@ Steps on how to create GitHub page
 What are your key takeaways from this exercise?
   -one of my key takeaways from this exercise is experimenting and exploring html and css is actually one of the most fun and best way to learn making a website especially if you are still a beginner.
   I experience a lot of trial and error but surprisingly it was more enjoyable that way.
-  -another takeway is that organization is really importang in making a website. This is one area that I really want to master especially in how to manipulate flexbox in more complex formats. 
+  -another takeway is that organization is really importang in making a website. This is one area that I really want to master especially in how to manipulate flexbox in more complex formats.
+  -it was also very fun creating imaginary projects, I did all of that in canva but I can't help to imagine how fulfilling it might be if it's a real project. 
